@@ -71,6 +71,17 @@
   
 
   
+      ,"page1": {
+          "title": "About Me",
+          "content": "Besides other things, I am interested in machine &amp; deep learning and its overlap with &amp; applications to natural sciences, computational chemistry in particular. I have more than 15 years experience with various computational chemistry and cheminformatics methods and projects and applying those skills to real world problems. Contributions to more than 30 peer-review scientific publications, many as main author, also author and co-author on several patent grants. Kaggle Master. All opinions are my own. .",
+          "url": "https://chloschen.github.io/fastpages/about/",
+          "relUrl": "/about/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -92,7 +103,7 @@
   
 
   
-      ,"page9": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://chloschen.github.io/fastpages/robots.txt",
